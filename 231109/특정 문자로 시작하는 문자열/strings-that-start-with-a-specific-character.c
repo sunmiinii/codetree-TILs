@@ -24,7 +24,7 @@ int main() {
 		}
     }
 
-	printf("%d %.2f", cnt, (double)len_sum / cnt);
+	printf("%d %.2f", cnt, (double)lens / cnt);
 	
     return 0;
 }
